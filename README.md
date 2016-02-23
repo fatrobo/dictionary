@@ -15,3 +15,7 @@ A dictionary is stored as a single JSON translation file. The Japanese character
 If you are adding entries in bulk, don't list them all but rather explain where they came from if applicable.
 
 *Do Not* automatically translate a tag list and feed that through a PR directly. Machine translation has many faults and poorly translated submissions may be rejected.
+
+##Other languages
+
+Other languages (besides English) may be included if there is enough demand.
