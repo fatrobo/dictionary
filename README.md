@@ -6,15 +6,18 @@ This is the repository for the standard translation dictionary for the pixiv-ass
 
 Pull requests are welcome as long as the (minimal) format rules below are obeyed. 
 
-##Format
+###Format
 
 A dictionary is stored as a single JSON translation file. The Japanese characters are the keys of the JSON Object while the English translations are the values. Pull requests are welcome to add to the common source dictionary, please indent entries with a single tab character. The dictionary is lexigraphically sorted by the english translation. The javascript  that loads the file won't care, this is for the sake of human readability.
 
+###Commits
 Commit comments are appreciated but not strictly necessary. If you have a source for your translations, please do provide that information.
 
-*Do Not* automatically translate a tag list and feed that through a PR directly. Machine translation has many faults and poorly translated submissions may be rejected.
+###Human Translation Only
+*Do Not* automatically translate a tag list and feed that through a PR directly. Machine translation has many faults and poorly translated submissions may be rejected. However, you are more than welcome to use machine translation to arrive at an understanding of the most appropriate translation especially as a non-native speaker. 
 
-Translations may be contested by in the Issues section of the project.
+###Contesting a translation
+Translations may be contested by in the Issues section of the project. Explain why you feel the translation is not accurate and try to suggest an alternative. 
 
 ##Other languages
 
