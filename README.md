@@ -19,6 +19,9 @@ Commit comments are appreciated but not strictly necessary. If you have a source
 ###Contesting a translation
 Translations may be contested by in the Issues section of the project. Explain why you feel the translation is not accurate and try to suggest an alternative. 
 
-##Other languages
+##Tagging Standards
 
-Other languages (besides English) may be included if there is enough demand.
+All tags should be in [Title Case](https://en.wikipedia.org/wiki/Letter_case#Case_styles). 
+
+Names of characters should be presented in the western style (first name then last name) and English names should be used where applicable rather than the romanized katakana.
+
