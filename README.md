@@ -28,3 +28,5 @@ Names of characters should be presented in the western style (first name then la
 English translations should include the tag's preferred formatting where possible such as punctuation marks, capitalization, letter replacement, etc.
 
 An effort should be made to provide english translations for the vast majority of tags but tags that are well known in the english speaking community may remain as japanese words ("Kawaii" rather than "Cute", "4koma" rather than "4 Panel Comic", etc.)
+
+Avoid parenthesis unless they are part of the formatting of the original tag. Instead of using parenthesis as disambiguation, try a more explicit translation.
